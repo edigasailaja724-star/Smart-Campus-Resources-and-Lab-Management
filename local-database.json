@@ -1,0 +1,630 @@
+{
+  "branches": [
+    {
+      "id": "CSE",
+      "name": "Computer Science",
+      "full_name": "Computer Science & Engineering",
+      "is_active": true
+    },
+    {
+      "id": "CSM",
+      "name": "AI & Machine Learning",
+      "full_name": "Computer Science & Engineering (AI & ML)",
+      "is_active": true
+    },
+    {
+      "id": "CSD",
+      "name": "Data Science",
+      "full_name": "Computer Science & Engineering (Data Science)",
+      "is_active": true
+    },
+    {
+      "id": "ECE",
+      "name": "Electronics & Comm",
+      "full_name": "Electronics & Communication Engineering",
+      "is_active": true
+    },
+    {
+      "id": "EEE",
+      "name": "Electrical & Electronics",
+      "full_name": "Electrical & Electronics Engineering",
+      "is_active": true
+    },
+    {
+      "id": "MECH",
+      "name": "Mechanical Engineering",
+      "full_name": "Mechanical Engineering",
+      "is_active": true
+    },
+    {
+      "id": "CIVIL",
+      "name": "Civil Engineering",
+      "full_name": "Civil Engineering",
+      "is_active": true
+    }
+  ],
+  "materials": [
+    {
+      "title": "system programming",
+      "branch_id": "CSM",
+      "semester": 5,
+      "subject_name": "SSP",
+      "unit_number": "2",
+      "category": "Lecture Notes",
+      "description": "",
+      "file_url": "/assets/uploads/1793384769347_SSP-UNIT-2.pdf",
+      "storage_path": "1793384769347_SSP-UNIT-2.pdf",
+      "file_name": "SSP-UNIT-2.pdf",
+      "file_size_bytes": 2998186,
+      "mime_type": "application/pdf",
+      "uploaded_by": "Faculty",
+      "id": "mat-1793384769353",
+      "created_at": "2026-10-30T18:26:09.353Z"
+    },
+    {
+      "title": "5th unit",
+      "branch_id": "CSM",
+      "semester": 5,
+      "subject_name": "data visualization",
+      "unit_number": "5",
+      "category": "Unit-wise Notes",
+      "description": "",
+      "file_url": "/assets/uploads/1793350753930_DV_UNIT_5.pdf",
+      "storage_path": "1793350753930_DV_UNIT_5.pdf",
+      "file_name": "DV UNIT 5.pdf",
+      "file_size_bytes": 552811,
+      "mime_type": "application/pdf",
+      "uploaded_by": "Faculty",
+      "id": "mat-1793350753937",
+      "created_at": "2026-10-30T08:59:13.937Z"
+    },
+    {
+      "title": "quantum techniologies",
+      "branch_id": "CSM",
+      "semester": 5,
+      "subject_name": "quantum technologies",
+      "unit_number": "2",
+      "category": "Unit-wise Notes",
+      "description": "iqta",
+      "file_url": "/assets/uploads/1793339311716_IQTA_PDF.pdf",
+      "storage_path": "1793339311716_IQTA_PDF.pdf",
+      "file_name": "IQTA.PDF",
+      "file_size_bytes": 548327,
+      "mime_type": "application/pdf",
+      "uploaded_by": "Faculty",
+      "id": "mat-1793339311721",
+      "created_at": "2026-10-30T05:48:31.721Z"
+    },
+    {
+      "id": "mat-1",
+      "title": "Unit 1 & 2 Complete Lecture Notes: Computer Networks & OSI Model",
+      "branch_id": "CSE",
+      "semester": 5,
+      "subject_name": "Computer Networks",
+      "unit_number": "Unit 1 & 2",
+      "category": "Lecture Notes",
+      "description": "In-depth coverage of Physical Layer, Data Link Layer protocols, Framing, Sliding Window, and Error Detection with diagrams.",
+      "file_url": "/assets/uploads/sample-cn-unit1.pdf",
+      "storage_path": "sample-cn-unit1.pdf",
+      "file_name": "CN_Unit1_2_LectureNotes.pdf",
+      "file_size_bytes": 2450000,
+      "created_at": "2026-10-30T05:09:13.926Z"
+    },
+    {
+      "id": "mat-2",
+      "title": "Database Management Systems: Relational Algebra & SQL Normalization Guide",
+      "branch_id": "CSE",
+      "semester": 5,
+      "subject_name": "Database Management Systems",
+      "unit_number": "Unit 3",
+      "category": "Unit-wise Notes",
+      "description": "Comprehensive explanation of 1NF, 2NF, 3NF, BCNF with step-by-step solved decomposition problems.",
+      "file_url": "/assets/uploads/sample-dbms-unit3.pdf",
+      "storage_path": "sample-dbms-unit3.pdf",
+      "file_name": "DBMS_Unit3_Normalization.pdf",
+      "file_size_bytes": 1820000,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "mat-3",
+      "title": "University Previous Question Papers Collection (2021-2025) - Operating Systems",
+      "branch_id": "CSE",
+      "semester": 4,
+      "subject_name": "Operating Systems",
+      "unit_number": "All Units",
+      "category": "Previous Question Papers",
+      "description": "Previous five years university examination question papers with key hints and answer distribution scheme.",
+      "file_url": "/assets/uploads/sample-os-papers.pdf",
+      "storage_path": "sample-os-papers.pdf",
+      "file_name": "OS_University_PYQ_2021_2025.pdf",
+      "file_size_bytes": 3150000,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "mat-4",
+      "title": "Web Technologies & Full Stack Lab Manual (R20 Regulation)",
+      "branch_id": "CSE",
+      "semester": 5,
+      "subject_name": "Web Technologies",
+      "unit_number": "Complete Lab Manual",
+      "category": "Lab Manuals",
+      "description": "Official lab experiment programs covering HTML5, CSS3, JavaScript DOM, Node.js REST API, and MySQL integration.",
+      "file_url": "/assets/uploads/sample-wt-lab-manual.pdf",
+      "storage_path": "sample-wt-lab-manual.pdf",
+      "file_name": "WT_FullStack_Lab_Manual.pdf",
+      "file_size_bytes": 4100000,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "mat-5",
+      "title": "Machine Learning Foundation & Optimization Algorithms",
+      "branch_id": "CSM",
+      "semester": 3,
+      "subject_name": "Foundations of Machine Learning",
+      "unit_number": "Unit 2",
+      "category": "Important Questions",
+      "description": "Key conceptual questions and mathematical derivations for Gradient Descent, Linear Regression, and Logistic Regression.",
+      "file_url": "/assets/uploads/sample-ml-foundation.pdf",
+      "storage_path": "sample-ml-foundation.pdf",
+      "file_name": "ML_Unit2_Important_Questions.pdf",
+      "file_size_bytes": 1980000,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "mat-6",
+      "title": "Digital Signal Processing Formula Sheet & Problem Solutions",
+      "branch_id": "ECE",
+      "semester": 4,
+      "subject_name": "Digital Signal Processing",
+      "unit_number": "All Units",
+      "category": "Reference Materials",
+      "description": "Complete reference handbook of Z-Transform, DFT, FFT algorithms, and Butterworth/Chebyshev filter design equations.",
+      "file_url": "/assets/uploads/sample-dsp-formulas.pdf",
+      "storage_path": "sample-dsp-formulas.pdf",
+      "file_name": "DSP_Formula_Reference_Handbook.pdf",
+      "file_size_bytes": 2700000,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "title": "Official B.Tech End-Semester Examination Timetable - Nov/Dec 2026",
+      "short_description": "JNTUA university circular regarding regular and supplementary theory examination schedule for B.Tech III & IV Years.",
+      "detailed_content": "All students are advised to download the verified timetable for the upcoming semester end examinations. Examination will commence from 18th November 2026. Hall tickets will be issued through the college examination cell starting next Monday. Maintain 100% adherence to examination hall protocols.",
+      "category": "Examination Updates",
+      "source_name": "JNTUA University Examination Branch",
+      "publication_date": "2026-10-28",
+      "official_source_url": "https://jntua.ac.in/examinations",
+      "is_pinned": true,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "ann-3",
+      "title": "TCS & Wipro Campus Recruitment Drive - Batch of 2027 Eligibility Criteria",
+      "short_description": "Pre-placement training schedule and registration portal link for upcoming tier-1 IT recruitment drives.",
+      "detailed_content": "Final year and pre-final year students from CSE, CSM, CSD, and ECE with a minimum 65% aggregate and no active backlogs are instructed to register on the placement portal by Friday 5:00 PM. Mock technical assessments start this Wednesday in Lab C101.",
+      "category": "Placement Updates",
+      "source_name": "ALITS Training & Placement Cell",
+      "publication_date": "2026-10-25",
+      "official_source_url": "https://alits.ac.in/placements",
+      "is_pinned": false,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "ann-4",
+      "title": "Release of Hall Tickets for B.Tech II Year Regular Examinations",
+      "short_description": "Hall tickets are now available for collection at the respective department coordinator desks.",
+      "detailed_content": "Students must verify their photograph, registered subjects, and attendance percentage on the hall ticket before securing the Chief Superintendent signature.",
+      "category": "Hall Tickets",
+      "source_name": "ALITS Examination Section",
+      "publication_date": "2026-10-23",
+      "official_source_url": "https://jntua.ac.in",
+      "is_pinned": false,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "ann-5",
+      "title": "Workshop on Generative AI & Cloud Microservices Architecture",
+      "short_description": "Three-day hands-on industry certified workshop conducted in association with AWS Cloud Academy.",
+      "detailed_content": "Exclusive hands-on session on building enterprise LLM applications, Vector databases, and Docker microservices. Certificate of completion will be awarded to all participants who submit their capstone projects.",
+      "category": "Workshops and Seminars",
+      "source_name": "Department of CSE & AI/ML",
+      "publication_date": "2026-10-21",
+      "official_source_url": "https://alits.ac.in/workshops",
+      "is_pinned": false,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    },
+    {
+      "id": "ann-6",
+      "title": "Revised Academic Calendar for Academic Year 2026-2027",
+      "short_description": "Approved university academic calendar covering instructional weeks, mid-examinations, and preparation holidays.",
+      "detailed_content": "Instructional periods for odd semesters have been updated. Mid-1 examinations will be conducted as per university schedule. Practical lab exams will precede the theory final exams.",
+      "category": "Academic Calendar",
+      "source_name": "University Academic Directorate",
+      "publication_date": "2026-10-18",
+      "official_source_url": "https://jntua.ac.in/academic-calendar",
+      "is_pinned": false,
+      "created_at": "2026-10-30T05:09:13.929Z"
+    }
+  ],
+  "laboratories": [
+    {
+      "id": "lab-1",
+      "name": "Advanced Cloud & Web Tech Lab",
+      "department": "CSE",
+      "room_number": "LAB-C101",
+      "capacity": 40,
+      "total_equipment": 40,
+      "available_equipment": 38,
+      "status": "Available",
+      "description": "Dedicated laboratory for Full-Stack Web Development, Cloud Computing, and Distributed Systems practicals.",
+      "equipment_list": "40 Dell Core i7 Systems, 1 Gbps Fiber Backbone, RedHat Linux, Docker, Node.js & VS Code Dev Suites"
+    },
+    {
+      "id": "lab-2",
+      "name": "AI & Machine Learning Research Lab",
+      "department": "CSM",
+      "room_number": "LAB-C102",
+      "capacity": 35,
+      "total_equipment": 35,
+      "available_equipment": 34,
+      "status": "Available",
+      "description": "Specialized computing infrastructure for Deep Learning, Computer Vision, and Natural Language Processing.",
+      "equipment_list": "35 High-End GPU Workstations (NVIDIA RTX), Anaconda, PyTorch, TensorFlow, Edge AI Kits"
+    },
+    {
+      "id": "lab-3",
+      "name": "Data Analytics & Big Data Lab",
+      "department": "CSD",
+      "room_number": "LAB-C103",
+      "capacity": 35,
+      "total_equipment": 35,
+      "available_equipment": 35,
+      "status": "Available",
+      "description": "Center for Big Data processing, Predictive Analytics, and Statistical Machine Learning projects.",
+      "equipment_list": "35 High-Performance Terminals, Apache Spark Cluster, Hadoop Ecosystem, Tableau & Python Data Suites"
+    },
+    {
+      "id": "lab-4",
+      "name": "Digital Signal Processing & VLSI Lab",
+      "department": "ECE",
+      "room_number": "LAB-E201",
+      "capacity": 30,
+      "total_equipment": 30,
+      "available_equipment": 29,
+      "status": "Available",
+      "description": "Equipped for circuit synthesis, FPGA prototyping, and advanced digital signal processing.",
+      "equipment_list": "30 DSP Starter Kits, Cadence EDA Suite, Xilinx Vivado FPGA Boards, Digital Storage Oscilloscopes"
+    },
+    {
+      "id": "lab-5",
+      "name": "Electrical Machines & Power Systems Lab",
+      "department": "EEE",
+      "room_number": "LAB-EE105",
+      "capacity": 25,
+      "total_equipment": 25,
+      "available_equipment": 24,
+      "status": "In Use",
+      "description": "Heavy machinery testing and electrical motor parameter verification laboratory.",
+      "equipment_list": "AC/DC Motors, Synchronous Alternators, Power System Simulation Panels, High-Voltage Test Bench"
+    },
+    {
+      "id": "lab-6",
+      "name": "CAD / CAM & Simulation Center",
+      "department": "MECH",
+      "room_number": "LAB-M301",
+      "capacity": 35,
+      "total_equipment": 35,
+      "available_equipment": 33,
+      "status": "Available",
+      "description": "3D Modeling, finite element analysis, and computer-aided manufacturing engineering lab.",
+      "equipment_list": "35 Workstations running AutoCAD, SolidWorks, ANSYS, CNC Lathe Simulation Units"
+    },
+    {
+      "name": "Machine  Learning",
+      "department": "CSM",
+      "room_number": "313",
+      "capacity": 65,
+      "total_equipment": 300,
+      "available_equipment": 65,
+      "status": "Available",
+      "equipment_list": "Lenovo thinkpad i5",
+      "description": "1tb seamless networking",
+      "id": "lab-1793384954331"
+    }
+  ],
+  "classrooms": [
+    {
+      "id": "cr-1",
+      "room_number": "CR-101",
+      "building": "Sir Visvesvaraya Academic Block",
+      "floor": "Ground Floor",
+      "department": "CSE",
+      "seating_capacity": 70,
+      "has_projector": true,
+      "has_smart_board": true,
+      "facilities": "High-Res Laser Projector, Smart Interactive Touch Board, Acoustic Sound Ceiling, Wi-Fi 6",
+      "status": "Available"
+    },
+    {
+      "id": "cr-2",
+      "room_number": "CR-102",
+      "building": "Sir Visvesvaraya Academic Block",
+      "floor": "Ground Floor",
+      "department": "CSE",
+      "seating_capacity": 70,
+      "has_projector": true,
+      "has_smart_board": false,
+      "facilities": "Overhead Digital Projector, Motorized Projection Screen, Dual Microphones, Wi-Fi 6",
+      "status": "Occupied"
+    },
+    {
+      "id": "cr-3",
+      "room_number": "CR-201",
+      "building": "Sir Visvesvaraya Academic Block",
+      "floor": "First Floor",
+      "department": "CSM",
+      "seating_capacity": 65,
+      "has_projector": true,
+      "has_smart_board": true,
+      "facilities": "Interactive 4K Panel, Wireless Screen Sharing, Tiered Amphitheater Seating, Air Conditioned",
+      "status": "Available"
+    },
+    {
+      "id": "cr-4",
+      "room_number": "CR-205",
+      "building": "Sir Visvesvaraya Academic Block",
+      "floor": "First Floor",
+      "department": "CSD",
+      "seating_capacity": 65,
+      "has_projector": true,
+      "has_smart_board": true,
+      "facilities": "Smart Whiteboard, Ceiling Array Mic, Dual HDMI Cast, Ergonomic Lecture Benches",
+      "status": "Available"
+    },
+    {
+      "id": "cr-5",
+      "room_number": "CR-301",
+      "building": "Dr. APJ Abdul Kalam Tech Block",
+      "floor": "Second Floor",
+      "department": "ECE",
+      "seating_capacity": 75,
+      "has_projector": true,
+      "has_smart_board": false,
+      "facilities": "Full HD Projector, Audio Amplifiers, Chalkboard & Whiteboard Combo, High Ventilation",
+      "status": "Available"
+    },
+    {
+      "id": "cr-6",
+      "room_number": "CR-305",
+      "building": "Dr. APJ Abdul Kalam Tech Block",
+      "floor": "Second Floor",
+      "department": "EEE",
+      "seating_capacity": 60,
+      "has_projector": true,
+      "has_smart_board": false,
+      "facilities": "Ceiling Mounted Projector, LAN ports at Faculty Podium, Surround Audio System",
+      "status": "Available"
+    },
+    {
+      "id": "cr-7",
+      "room_number": "CR-401",
+      "building": "Mechanical Sciences Pavilion",
+      "floor": "Ground Floor",
+      "department": "MECH",
+      "seating_capacity": 80,
+      "has_projector": true,
+      "has_smart_board": false,
+      "facilities": "Wide Screen Projection, Drafting Tables Setup, High Illumination LED lighting",
+      "status": "Available"
+    }
+  ],
+  "equipment": [
+    {
+      "id": "eq-1",
+      "name": "Epson EB-E01 3LCD Multimedia Projector",
+      "equipment_id": "PRJ-CSE-001",
+      "category": "Projector",
+      "department": "CSE",
+      "current_location": "CR-101 (Ceiling Mounted)",
+      "quantity": 1,
+      "available_quantity": 1,
+      "condition": "Working",
+      "maintenance_notes": "Filter cleaned and calibrated on Oct 2026."
+    },
+    {
+      "id": "eq-2",
+      "name": "BenQ Smart Wireless Laser Projector",
+      "equipment_id": "PRJ-CSM-002",
+      "category": "Projector",
+      "department": "CSM",
+      "current_location": "CR-201 (Mounted)",
+      "quantity": 1,
+      "available_quantity": 1,
+      "condition": "Working",
+      "maintenance_notes": "Firmware updated; operates smoothly in 1080p wireless mode."
+    },
+    {
+      "id": "eq-3",
+      "name": "Sony VPL-DX221 Classroom Projector",
+      "equipment_id": "PRJ-ECE-003",
+      "category": "Projector",
+      "department": "ECE",
+      "current_location": "CR-301 (Faculty Podium)",
+      "quantity": 1,
+      "available_quantity": 1,
+      "condition": "Working",
+      "maintenance_notes": "Lamp health 92%."
+    },
+    {
+      "id": "eq-4",
+      "name": "ViewSonic 75-inch 4K Interactive Flat Panel",
+      "equipment_id": "IFP-CSD-010",
+      "category": "Audio-Visual",
+      "department": "CSD",
+      "current_location": "CR-205",
+      "quantity": 1,
+      "available_quantity": 1,
+      "condition": "Working",
+      "maintenance_notes": "Stylus and touch screen verified."
+    },
+    {
+      "id": "eq-5",
+      "name": "Keysight 100MHz Digital Storage Oscilloscope",
+      "equipment_id": "DSO-ECE-041",
+      "category": "Testing Instrument",
+      "department": "ECE",
+      "current_location": "LAB-E201 (Rack 2)",
+      "quantity": 10,
+      "available_quantity": 9,
+      "condition": "Working",
+      "maintenance_notes": "Unit #4 scheduled for probe calibration next month."
+    },
+    {
+      "id": "eq-6",
+      "name": "Dell OptiPlex 7000 i7 Workstation",
+      "equipment_id": "PC-LAB-019",
+      "category": "Computing Device",
+      "department": "CSE",
+      "current_location": "LAB-C101 (Seat 19)",
+      "quantity": 1,
+      "available_quantity": 1,
+      "condition": "Working",
+      "maintenance_notes": "Windows 11 Enterprise + Ubuntu Dual Boot clean installation."
+    },
+    {
+      "id": "eq-7",
+      "name": "Raspberry Pi 4 Model B (8GB) Lab Kits",
+      "equipment_id": "IOT-KIT-008",
+      "category": "Lab Hardware",
+      "department": "CSE/CSM",
+      "current_location": "IoT Prototyping Cell",
+      "quantity": 25,
+      "available_quantity": 23,
+      "condition": "Working",
+      "maintenance_notes": "Sensors and breadboards organized in component trays."
+    }
+  ],
+  "timetables": [
+    {
+      "id": "tt-1",
+      "branch_id": "CSE",
+      "semester": 5,
+      "section": "A",
+      "day_of_week": "Monday",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "subject": "Computer Networks",
+      "faculty_name": "Dr. S. K. Raman",
+      "room_or_lab": "CR-101"
+    },
+    {
+      "id": "tt-2",
+      "branch_id": "CSE",
+      "semester": 5,
+      "section": "A",
+      "day_of_week": "Monday",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "subject": "Formal Languages & Automata",
+      "faculty_name": "Prof. M. Anita",
+      "room_or_lab": "CR-101"
+    },
+    {
+      "id": "tt-3",
+      "branch_id": "CSE",
+      "semester": 5,
+      "section": "A",
+      "day_of_week": "Monday",
+      "start_time": "11:15",
+      "end_time": "13:15",
+      "subject": "Web Technologies Laboratory",
+      "faculty_name": "Prof. V. Kiran / Dr. Raman",
+      "room_or_lab": "LAB-C101"
+    },
+    {
+      "id": "tt-4",
+      "branch_id": "CSE",
+      "semester": 5,
+      "section": "A",
+      "day_of_week": "Monday",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "subject": "Database Management Systems",
+      "faculty_name": "Prof. P. Suresh",
+      "room_or_lab": "CR-101"
+    },
+    {
+      "id": "tt-5",
+      "branch_id": "CSE",
+      "semester": 5,
+      "section": "A",
+      "day_of_week": "Tuesday",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "subject": "Formal Languages & Automata",
+      "faculty_name": "Prof. M. Anita",
+      "room_or_lab": "CR-101"
+    },
+    {
+      "id": "tt-6",
+      "branch_id": "CSE",
+      "semester": 5,
+      "section": "A",
+      "day_of_week": "Tuesday",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "subject": "Computer Networks",
+      "faculty_name": "Dr. S. K. Raman",
+      "room_or_lab": "CR-101"
+    }
+  ],
+  "carousel_slides": [
+    {
+      "slide_order": 1,
+      "title": "State-of-the-Art Smart Campus Infrastructure",
+      "description": "Eco-friendly green campus with advanced digital classrooms, automated resource hubs, and spacious academic blocks.",
+      "image_url": "/assets/images/slider-campus.svg",
+      "button_text": "Explore Classrooms",
+      "button_link": "/classrooms.html",
+      "alt_text": "Anantha Lakshmi Institute Campus View"
+    },
+    {
+      "slide_order": 2,
+      "title": "High-End Computing & Engineering Laboratories",
+      "description": "Modern research-grade laboratories equipped with advanced computing nodes, IoT testbeds, and VLSI tool suites.",
+      "image_url": "/assets/images/slider-labs.svg",
+      "button_text": "View Lab Directory",
+      "button_link": "/laboratories.html",
+      "alt_text": "Advanced Engineering Laboratory Facilities"
+    },
+    {
+      "slide_order": 3,
+      "title": "Central Digital Library & Academic Knowledge Center",
+      "description": "Comprehensive repository of lecture notes, unit-wise reference guides, previous university papers, and e-journals.",
+      "image_url": "/assets/images/slider-library.svg",
+      "button_text": "Access Academic Materials",
+      "button_link": "/academic-materials.html",
+      "alt_text": "ALITS Central Digital Library and Repository"
+    },
+    {
+      "slide_order": 4,
+      "title": "Student Technical Projects & Prototyping Hub",
+      "description": "Empowering engineering students through real-world prototyping, robotics workshops, and student innovation clubs.",
+      "image_url": "/assets/images/slider-projects.svg",
+      "button_text": "View Equipment Directory",
+      "button_link": "/equipment.html",
+      "alt_text": "Student Innovation and Robotics Workspace"
+    },
+    {
+      "slide_order": 5,
+      "title": "Verified College & University Notifications",
+      "description": "Official notifications, semester examination timetables, results, and campus placement drives all in one spot.",
+      "image_url": "/assets/images/slider-updates.svg",
+      "button_text": "Check Latest Updates",
+      "button_link": "/updates.html",
+      "alt_text": "University and College Academic Updates"
+    }
+  ]
+}
