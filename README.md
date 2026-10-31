@@ -120,8 +120,7 @@ smart-campus-management/
 
 ### Step 1: Open in VS Code
 Open the project directory in Visual Studio Code:
-```bash
-code C:\Users\ediga\.gemini\antigravity\scratch\smart-campus-management
+```bas
 ```
 
 ### Step 2: Install Node.js Dependencies
@@ -132,7 +131,7 @@ npm install
 
 ### Step 3: Run the Application
 Start the Node.js server:
-```bash
+
 npm start
 ```
 The server will start on:
